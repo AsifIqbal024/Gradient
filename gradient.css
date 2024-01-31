@@ -1,0 +1,16 @@
+body {
+    background-color: beige;
+}
+table , td , th {
+    border: 1px solid black;
+}
+table {
+    border-collapse: collapse;
+    width: 300px;
+}
+.lg {
+    background-image: linear-gradient( to right , #FFD3A5 , #FD6585);
+}
+.rg {
+    background-image:radial-gradient(#fccf31 25% , #f55555 45%)
+}
